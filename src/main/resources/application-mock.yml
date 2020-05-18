@@ -8,5 +8,5 @@ spring:
 message: MOCK ENV
 
 startRoute: direct:input
-#fromRoute:  file:data/input?delete=true&readLock=none
+fromRoute:  file:data/input?delete=true&readLock=none
 toRoute1: mock:output

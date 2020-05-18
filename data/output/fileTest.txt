@@ -1,3 +1,0 @@
-type,sku#,itemdescription,price
-ADD,100,SAMSUNG TV,500
-ADD,101,SAMSUNG PHONE,500
